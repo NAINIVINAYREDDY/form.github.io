@@ -1,0 +1,14 @@
+*{
+    margin: 20px;
+}
+body{
+    background-image: url(food.jpg);
+}
+form{
+    text-align: left;
+    background-color: goldenrod;
+    width: 400px;
+    height:auto;
+    box-shadow: 5 10 90px black;
+    padding: 10px;
+}
